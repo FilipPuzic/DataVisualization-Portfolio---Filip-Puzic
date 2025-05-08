@@ -1,22 +1,9 @@
 # Recreate and Remix
 
-In this folder, include all the files you used to create your visualization (.ipynb, .csv, whatever) as well as a hi-res or pdf version of your final visualizations. 
-
-In this document:
- - Include a large image of your visualization ```![image alt text](image_file.png)```
- - Cite any data sources
- - List the tools used
- - Again, you're going to describe this project. You are answering What? Why? and How? You can re-use the blurb on the welcome page, but expand a little.
-
-In this document:  
-- Include a large image of your visualization  
-  `![S&P 500 Remix Chart](image_file.png)`  
----
-
-# Recreate and Remix
-
 ## Final Visualization  
-```![S&P 500 Remix Chart](image_file.png)```
+![alt text](<Recreation of SPY.png>)
+
+![alt text](<SPY 200EMA.png>)
 
 ## Data Sources  
 - Historical S&P 500 data downloaded from [Yahoo Finance](https://finance.yahoo.com/)  

@@ -1,7 +1,7 @@
 # Project 3: Where Does $1 of Income Go?
 
 ## Final Visualization  
- <img src="./![Images/Candlestick Chart.png](<Where Does $1 of Income Go.png>)"
+ ![Images/Candlestick Chart.png](<Where Does $1 of Income Go.png>)
 
  
 ## Data Sources  

@@ -1,7 +1,7 @@
 # The EV Revolution — Why It’s Time to Go Electric 
 
 ## Final Visualization  
-```![The EV Revolution](The EV Revolution/The EV Revolution Why It’s Time to Go Electric.png)```
+![alt text](<The EV Revolution Why It’s Time to Go Electric.png>)
 
 
 ## Data Sources  
