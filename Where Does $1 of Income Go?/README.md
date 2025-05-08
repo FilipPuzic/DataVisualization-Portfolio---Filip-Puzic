@@ -1,8 +1,9 @@
 # Project 3: Where Does $1 of Income Go?
 
 ## Final Visualization  
-```![Where Does $1 of Income Go?](Where Does $1 of Income Go?/Where Does $1 of Income Go.png)```
+ <img src="./![Images/Candlestick Chart.png](<Where Does $1 of Income Go.png>)"
 
+ 
 ## Data Sources  
 - U.S. Bureau of Labor Statistics — Consumer Expenditure Survey  
   [https://www.bls.gov/cex/tables.htm#income](https://www.bls.gov/cex/tables.htm#income)
