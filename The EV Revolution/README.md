@@ -1,7 +1,8 @@
 # The EV Revolution — Why It’s Time to Go Electric 
 
 ## Final Visualization  
-```![/Users/filippuzic/Desktop/DS311/DataVisualization-Portfolio---Filip-Puzic/The EV Revolution/The EV Revolution Why It’s Time to Go Electric.png)```
+```![The EV Revolution](The EV Revolution/The EV Revolution Why It’s Time to Go Electric.png)```
+
 
 ## Data Sources  
 - U.S. Department of Energy — Alternative Fuels Data Center  

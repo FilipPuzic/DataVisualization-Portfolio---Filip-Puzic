@@ -1,10 +1,7 @@
 # Project 3: Where Does $1 of Income Go?
 
-  `![Where Does $1 of Income Go?](Screenshot 2025-05-07 at 21.35.04.png)`  
-
-
 ## Final Visualization  
-```![Where Does $1 of Income Go?](Screenshot 2025-05-07 at 21.35.04.png)```
+```![Where Does $1 of Income Go?](Where Does $1 of Income Go?/Where Does $1 of Income Go.png)```
 
 ## Data Sources  
 - U.S. Bureau of Labor Statistics — Consumer Expenditure Survey  
