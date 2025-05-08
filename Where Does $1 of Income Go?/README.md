@@ -9,7 +9,6 @@
   [https://www.bls.gov/cex/tables.htm#income](https://www.bls.gov/cex/tables.htm#income)
 
 ## Tools Used  
-- Python (`matplotlib`, `pandas`)  
 - Jupyter Notebook  
 - Canva (for layout and styling)  
 - **ChatGPT** (for narrative refinement and formatting)

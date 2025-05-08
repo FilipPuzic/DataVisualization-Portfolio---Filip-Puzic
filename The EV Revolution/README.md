@@ -11,8 +11,8 @@
 ## Tools Used  
 - Python (`shapely`, `pandas`)  
 - Jupyter Notebook  
-- Adobe Illustrator / Canva (for layout and annotation)  
-- **ChatGPT** (for design guidance and data storytelling)
+- Canva (for layout and annotation)  
+- **ChatGPT** (for design guidance)
 
 ## Project Description  
 This project presents a geographic data visualization of the EV charging network across the United States. The infographic includes a map showing the spatial availability of EV chargers using radii of 4, 20, and 100 miles to demonstrate coverage. It supports a broader argument advocating for electric vehicle adoption.
@@ -27,7 +27,7 @@ The biggest concerns preventing consumers from switching to EVs include *range a
 
 #### Data & Mapping
 - Downloaded EV station data from the U.S. Alternative Fuels Data Center  
-- Used Python and Folium to create a layered radius map around each station  
+- Used Python and shapely to create a layered radius map around each station  
 - Grouped data by coverage distance:
   - *4-mile radius* (urban convenience)
   - *20-mile radius* (suburban access)

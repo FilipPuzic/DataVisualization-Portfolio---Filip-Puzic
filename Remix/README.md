@@ -12,7 +12,7 @@
 ## Tools Used  
 - Python (`pandas`, `plotly`)  
 - Jupyter Notebook  
-- **ChatGPT** & **DeepSeek** (for coding assistance)
+- **ChatGPT** & **Copilot** (for coding assistance)
 
 ## Project Description  
 This project is part of the **Recreate and Remix** initiative in my data science portfolio. The goal was to take an existing financial visualization and both recreate and enhance it with additional analytical features.

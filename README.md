@@ -2,12 +2,11 @@
 
 ## About Me
 
-Welcome to my data visualization portfolio! My name is Filip Puzic, and I’m a student passionate about data, economics, and design. I enjoy translating raw datasets into visual stories that inform, persuade, and spark curiosity. My skills include Python programming, data cleaning, visualization, and infographic design using tools like Plotly, Folium, Matplotlib, Canva, and Recraft.
+Welcome to my data visualization portfolio! I’m Filip Puzic, a student with a strong interest in data, economics, and design. I enjoy working with data to reveal trends, patterns, and insights that are easy to understand and visually compelling.
 
-I'm especially interested in topics at the intersection of finance, public policy, and sustainability. My career goals involve working in data-driven roles where I can apply my technical and analytical skills to create real-world impact.
+I have experience with Python, data cleaning, and visualization using tools like Plotly, Folium, Matplotlib, Canva, and Recraft. Whether it's through charts, maps, or infographics, I focus on making data easier to understand and more impactful.
 
-<!-- Update these links with your actual profiles/documents -->
-To learn more about me, you can visit my [personal website](your_web_address), check out my [GitHub](https://github.com/YOURACCOUNT), or read my [CV](Images/CV.pdf).
+I'm especially interested in topics related to finance and sustainability, and I hope to build a career where I can use data to drive smart, effective decision-making.
 
 ---
 
@@ -41,7 +40,7 @@ To learn more about me, you can visit my [personal website](your_web_address), c
             <p>
             This infographic explores the geographic spread of EV charging infrastructure in the U.S. using layered radius maps. It argues for the viability of switching to electric vehicles by visualizing access to chargers within 4, 20, and 100-mile radii. This project combined mapping, spatial data, and clean design to support a data-driven argument for electrification. <a href="./The EV Revolution/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, Pandas, Folium, Shapely, Canva</i>
+            <i>Tools used: Python, Pandas, Shapely, Canva</i>
             </p>
         </td>
     </tr> 
@@ -60,7 +59,7 @@ To learn more about me, you can visit my [personal website](your_web_address), c
             <p>
             This project visualizes how average U.S. households earning under $50K and over $200K allocate each dollar of income. By using pie charts and concise commentary, it highlights stark contrasts in spending priorities and financial flexibility between income groups. The visual helps users quickly grasp how essentials dominate low-income budgets, while high earners can afford more saving and planning. <a href="./Where Does $1 of Income Go?/README.md">Learn more</a>
             <br><br>
-            <i>Tools used: Python, Matplotlib, Canva</i>
+            <i>Tools used: Python, Canva</i>
             </p>
         </td>
     </tr> 
